@@ -1,5 +1,7 @@
 # 🎨 claude-canvas - Extend Your Workspace Effortlessly
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/all-zzz-claude-canvas)
+
 ## 🏷️ Overview
 Welcome to claude-canvas! This application allows you to give Claude Code an external monitor, enhancing your productivity and workflow. With claude-canvas, you can manage multiple windows seamlessly, helping you stay organized and focused on your tasks.
 
